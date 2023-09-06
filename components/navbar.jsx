@@ -6,9 +6,9 @@ import CallIcon from "@mui/icons-material/Call";
 import EmailIcon from "@mui/icons-material/Email";
 import Link from "next/link";
 import PhoneNumberPopup from "./PhoneNumberPopup"; // Import the PhoneNumberPopup component
-import EmailPopup from "./emailPopup";
+import EmailPopup from "./EmailPopup";
 import TextSnippetIcon from "@mui/icons-material/TextSnippet";
-import PdfViewer from "@/components/pdfViewer"; // Adjust the import path accordingly
+import PdfViewer from "@/components/PdfViewer"; // Adjust the import path accordingly
 
 function Navbar() {
   const [showPhoneNumberPopup, setShowPhoneNumberPopup] = useState(false);
