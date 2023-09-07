@@ -29,7 +29,7 @@ function Page() {
     },
     {
       href: "https://khaana-peena.netlify.app/",
-      src: "project-videos/restr-site.mp4",
+      src: "project-videos/restro-site.mp4",
     },
     {
       href: "https://to-d0-list-app.netlify.app/",
